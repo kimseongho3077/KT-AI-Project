@@ -1,5 +1,5 @@
 # 아이유툰
-[model.zip](https://drive.google.com/file/d/1LI4QDtZAir6ckC0480xRU0MAQ4HNrM5r/view?usp=sharing)을 압축해제 한 후 .pt파일들을 model에 추가하세요~
+[model.zip](https://drive.google.com/file/d/1LI4QDtZAir6ckC0480xRU0MAQ4HNrM5r/view?usp=sharing)을 다운받고 압축해제 한 후 .pt파일들을 model에 추가하세요~
 
 
 # 버전업된 모습
