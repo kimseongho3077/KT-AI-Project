@@ -1,4 +1,5 @@
 # 아이유툰
+[model.zip](https://drive.google.com/file/d/1LI4QDtZAir6ckC0480xRU0MAQ4HNrM5r/view?usp=sharing)을 압축해제 한 후 .pt파일들을 model에 추가하세요~
 안녕하세요. 아이유를 좋아하는 펜심에서 만들었습니다. 앨범별로, 태그별로 검색이 가능합니다.
 
 마치 다음웹툰처럼 아이유의 곡들을 쉽게 볼 수 있는 UI를 구축했습니다. 많은 이용부탁드립니다. 
