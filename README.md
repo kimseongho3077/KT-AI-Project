@@ -1,9 +1,11 @@
-# KT 무인 국사 프로젝트
-[model.zip](https://drive.google.com/file/d/1LI4QDtZAir6ckC0480xRU0MAQ4HNrM5r/view?usp=sharing)을 다운로드하고 압축 해제한 후 .pt 파일들을 model에 추가하세요
-국사의 안전성을 확보하며 무인으로 운용하기 위해 화재, 침입자, 작업자 안전 등을 인공지능을 통해 식별하고, 이를 웹으로 확인할 수 있는 프로그램을 제작
+# 구동 전
+[model.zip](https://drive.google.com/file/d/1LI4QDtZAir6ckC0480xRU0MAQ4HNrM5r/view?usp=sharing)을 다운로드 하고 압축 해제한 후 WEB\apps\upload에 추가하세요
 
 # 국사
 국사는 KT의 다양한 통신 서비스가 원활히 제공될 수 있도록 인프라를 지원하는 곳이며, 건물의 화재 및 문제 발생 시 해당 지역에 막대한 통신 피해를 유발
+
+# [KT 무인 국사 프로젝트]()
+국사의 안전성을 확보하며 무인으로 운용하기 위해 화재, 침입자, 작업자 안전 등을 인공지능을 통해 식별하고, 이를 웹으로 확인할 수 있는 프로그램을 제작
 
 # 구동모습
 <p align="center"> 
