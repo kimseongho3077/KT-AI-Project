@@ -10,7 +10,8 @@
  - ### [pdf](https://github.com/kimseongho3077/KT-AI-Project/blob/main/%EB%AC%B4%EC%9D%B8%20%EA%B5%AD%EC%82%AC%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf)(click)
 
 # 메인 기술
- - YOLO
+ - YOLOv8
+ - Polygon (Shapely 라이브러리) - 다각형을 그려 특정 감시 영역을 설정하고, YOLO 모델로 감지된 객체가 이 영역 안에 있는지를 확인
  - 세션 기반 인증
  - bcrypt 해싱을 사용한 비밀번호 보호
  - Django ORM
